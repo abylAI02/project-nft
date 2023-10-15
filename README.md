@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Blockchain NFT Projectwork
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Using Solidity, Hardhat, IPFS, and OpenSea (BNBChain testnet), this NFT collection was produced. Unique artwork and randomly generated metadata are features of every NFT. Simply go to the OpenSea listing and connect your wallet to mint an NFT.
 
 Try running some of the following tasks:
 
