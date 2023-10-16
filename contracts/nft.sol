@@ -7,7 +7,7 @@ contract NFT is ERC721Enumerable, Ownable{
     using Strings for uint256;
     uint256 maxSupply = 8;
     uint256 ccost = 0.001 ether;
-    string baseURI = "ipfs://QmZ5EftbNrUmhBaAGpjQLrhPxGU1YtAYAA9jzULDLLwBLG/";
+    string baseURI = "ipfs://QmPpqXjceKY2Zk6p4bT4zakESK6ro1qZTGg3ChvwvyGDUa/";
 
     constructor() ERC721("Ccrypto Human", "HC"){}
 
